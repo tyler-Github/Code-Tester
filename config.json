@@ -1,0 +1,18 @@
+{
+    "repository": {
+      "url": "https://github.com/USERNAME/REPO.git",
+      "path": "./cloned_repo"
+    },
+    "features": {
+      "cloneOrUpdateRepository": true,
+      "installDependencies": true,
+      "checkDependencies": true,
+      "lintCode": true,
+      "runTests": false,
+      "runApplication": true,
+      "checkForUpdates": true,
+      "buildDockerImage": true,
+      "promptToDeleteRepository": true
+    }
+  }
+  
